@@ -62,6 +62,5 @@ todos = [
      {
         "id": "5",
         "Activity": "Dance chillax."
-
     }
 ]
