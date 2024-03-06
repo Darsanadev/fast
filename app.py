@@ -45,7 +45,7 @@ async def delete_todo(id: int):
 todos = [
     {
         "id": "1",
-        "Activity": "Jogging for 2 hrs at 7 AM."
+        "Activity": "Jogging for 2 hrs."
     },
     {
         "id": "2",
@@ -54,5 +54,9 @@ todos = [
     {
         "id": "3",
         "Activity": "Do skin and hair care."
+    },
+     {
+        "id": "4",
+        "Activity": "Plan your next day."
     }
 ]
