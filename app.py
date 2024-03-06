@@ -61,6 +61,6 @@ todos = [
     },
      {
         "id": "5",
-        "Activity": "Drink enough water stay hidrated."
+        "Activity": "Dance chillax."
     }
 ]
